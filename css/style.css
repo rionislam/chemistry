@@ -184,6 +184,10 @@ nav h1 span{
     border-radius: 6px;
 }
 
+.date{
+    text-align: right;
+}
+
 
 /* ---------------------- */
 /* responsive design      */
